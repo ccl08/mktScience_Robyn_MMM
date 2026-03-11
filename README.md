@@ -19,9 +19,3 @@ This project uses Robyn, Meta’s open-source MMM package in R, to build and eva
 	•	Time-series regression
 	•	Adstock transformations
 	•	Saturation modeling
-
-  #Repository Structure
-├── MMM_Test.R                 # Main script to run the MMM model
-├── mktScience_Robyn_MMM.Rproj # R project configuration
-├── README.md                  # Project documentation
-├── .gitignore                 # Ignored files
